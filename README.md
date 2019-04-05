@@ -15,6 +15,7 @@ For this assignment you should write everything from scratch.
 You may *reference and adapt* code from books or the web, and if you do please provide a References section with links at the end of your Readme.
 
 I choose FIFA 19 complete player dataset (18k+ FIFA 19 players, ~90 attributes extracted from the latest FIFA database) as my datavisualization dataset. 
+
 Resources
 ---
 
